@@ -2,7 +2,6 @@ import streamlit as st
 import pickle
 import numpy as np
 import re
-import scikit-learn as sklearn
 from pathlib import Path
 
 __version__ = '0.1.0'
